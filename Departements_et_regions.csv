@@ -1,0 +1,102 @@
+﻿Numéro;Département;Région;Superficie du département;psuper
+1;Ain;Auvergne-Rhône-Alpes;5762;92
+2;Aisne;Hauts-de-France;7369;117
+3;Allier;Auvergne-Rhône-Alpes;7340;117
+4;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur;6925;110
+5;Hautes-Alpes;Provence-Alpes-Côte d'Azur;5549;88
+6;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;4299;68
+7;Ardèche;Auvergne-Rhône-Alpes;5529;88
+8;Ardennes;Grand Est;5229;83
+9;Ariège;Occitanie;4890;78
+10;Aube;Grand Est;6004;96
+11;Aude;Occitanie;6139;98
+12;Aveyron;Occitanie;8735;139
+13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;5087;81
+14;Calvados;Normandie;5548;88
+15;Cantal;Auvergne-Rhône-Alpes;5726;91
+16;Charente;Nouvelle-Aquitaine;5956;95
+17;Charente-Maritime;Nouvelle-Aquitaine;6864;109
+18;Cher;Centre-Val de Loire;7235;115
+19;Corrèze;Nouvelle-Aquitaine;5857;93
+21;Côte-d'Or;Bourgogne-Franche-Comté;8763;140
+22;Côtes d'Armor;Bretagne;1000;16
+23;Creuse;Nouvelle-Aquitaine;5565;89
+24;Dordogne;Nouvelle-Aquitaine;9060;144
+25;Doubs;Bourgogne-Franche-Comté;5234;83
+26;Drôme;Auvergne-Rhône-Alpes;6530;104
+27;Eure;Normandie;6040;96
+28;Eure-et-Loir;Centre-Val de Loire;5880;94
+29;Finistère;Bretagne;6733;107
+30;Gard;Occitanie;5853;93
+31;Haute-Garonne;Occitanie;6309;100
+32;Gers;Occitanie;6257;100
+33;Gironde;Nouvelle-Aquitaine;9976;159
+34;Hérault;Occitanie;6101;97
+35;Ille-et-Vilaine;Bretagne;6775;108
+36;Indre;Centre-Val de Loire;6791;108
+37;Indre-et-Loire;Centre-Val de Loire;6127;98
+38;Isère;Auvergne-Rhône-Alpes;7431;118
+39;Jura;Bourgogne-Franche-Comté;4999;80
+40;Landes;Nouvelle-Aquitaine;9243;147
+41;Loir-et-Cher;Centre-Val de Loire;6343;101
+42;Loire;Auvergne-Rhône-Alpes;4781;76
+43;Haute-Loire;Auvergne-Rhône-Alpes;4977;79
+44;Loire-Atlantique;Pays de la Loire;6881;110
+45;Loiret;Centre-Val de Loire;6775;108
+46;Lot;Occitanie;5217;83
+47;Lot-et-Garonne;Nouvelle-Aquitaine;5361;85
+48;Lozère;Occitanie;5167;82
+49;Maine-et-Loire;Pays de la Loire;7107;113
+50;Manche;Normandie;5938;95
+51;Marne;Grand Est;8162;130
+52;Haute-Marne;Grand Est;6211;99
+53;Mayenne;Pays de la Loire;5175;82
+54;Meurthe-et-Moselle;Grand Est;5246;83
+55;Meuse;Grand Est;6211;99
+56;Morbihan;Bretagne;6823;109
+57;Moselle;Grand Est;6216;99
+58;Nièvre;Bourgogne-Franche-Comté;6817;109
+59;Nord;Hauts-de-France;5743;91
+60;Oise;Hauts-de-France;5860;93
+61;Orne;Normandie;6103;97
+62;Pas-de-Calais;Hauts-de-France;6671;106
+63;Puy-de-Dôme;Auvergne-Rhône-Alpes;7970;127
+64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;7645;122
+65;Hautes-Pyrénées;Occitanie;4464;71
+66;Pyrénées-Orientales;Occitanie;4116;65
+67;Bas-Rhin;Grand Est;4755;76
+68;Haut-Rhin;Grand Est;3525;56
+69;Rhône;Auvergne-Rhône-Alpes;2715;43
+70;Haute-Saône;Bourgogne-Franche-Comté;5360;85
+71;Saône-et-Loire;Bourgogne-Franche-Comté;8575;137
+72;Sarthe;Pays de la Loire;6206;99
+73;Savoie;Auvergne-Rhône-Alpes;6028;96
+74;Haute-Savoie;Auvergne-Rhône-Alpes;4388;70
+75;Paris;Ile-de-France;105;1
+76;Seine-Maritime;Normandie;6278;100
+77;Seine-et-Marne;Ile-de-France;5915;94
+78;Yvelines;Ile-de-France;2284;36
+79;Deux-Sèvres;Nouvelle-Aquitaine;5999;96
+80;Somme;Hauts-de-France;6170;98
+81;Tarn;Occitanie;5758;92
+82;Tarn-et-Garonne;Occitanie;3718;59
+83;Var;Provence-Alpes-Côte d'Azur;5973;95
+84;Vaucluse;Provence-Alpes-Côte d'Azur;3567;57
+85;Vendée;Pays de la Loire;6720;107
+86;Vienne;Nouvelle-Aquitaine;6990;111
+87;Haute-Vienne;Nouvelle-Aquitaine;5520;88
+88;Vosges;Grand Est;5874;94
+89;Yonne;Bourgogne-Franche-Comté;7427;118
+90;Territoire-de-Belfort;Bourgogne-Franche-Comté;;0
+91;Essonne;Ile-de-France;1804;28
+92;Hauts-de-Seine;Ile-de-France;176;2
+93;Seine-Saint-Denis;Ile-de-France;236;3
+94;Val-de-Marne;Ile-de-France;245;3
+95;Val-D'Oise;Ile-de-France;;0
+971;Guadeloupe;Guadeloupe;1628;26
+972;Martinique;Martinique;1128;18
+973;Guyane;Guyane;83534;1336
+974;La Réunion;La Réunion;2512;40
+976;Mayotte;Mayotte;376;6
+2A;Corse-du-Sud;Corse;4014;64
+2B;Haute-Corse;Corse;4666;74
